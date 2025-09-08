@@ -1,3 +1,3 @@
-# new project
-this project was crested from local system
-THIS WAS CREATED BY  NISHCHITHA
+# new project 2
+
+this is me nishchitha
